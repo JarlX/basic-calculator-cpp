@@ -28,7 +28,7 @@ int main(double x, double y, int z)
     std::cout << "Welcome the calculator!" << std::endl;
     std::cout << "Please enter two numbers" << std::endl;
     std::cin >> x >> y;
-    std::cout << "Please choose operation" << std::endl;
+    std::cout << "Please choose an operation" << std::endl;
     std::cout << "1. + " << std::endl;
     std::cout << "2. - " << std::endl;
     std::cout << "3. * " << std::endl;
